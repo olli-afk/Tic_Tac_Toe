@@ -19,7 +19,7 @@ This project is a Tic-Tac-Toe game with a graphical user interface, built using 
    cd tic-tac-toe
 
 Install tkinter if not already installed (it is often pre-installed):
-   # For Ubuntu/Debian
+   For Ubuntu/Debian
 sudo apt-get install python3-tk
 
 Run the game:
